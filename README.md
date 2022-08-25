@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-<div>
-<a href="https://github.com/joaoplombardi">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoplombardi&layout=compact&langs_count=7&theme=dark"/>
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoplombardi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div> 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaoplombardi&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117&theme=dark" alt="João Pedro Lombardi github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoplombardi&layout=compact&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117&theme=dark" />
+</div>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=joaoplombardi&theme=gotham&hide_border=true&area=true)
 
 <!--
 **joaoplombardi/joaoplombardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
