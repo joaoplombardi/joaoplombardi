@@ -6,7 +6,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoplombardi&layout=compact&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117&theme=dark" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=joaoplombardi&theme=gotham&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=joaoplombardi&&theme=xcode&hide_border=true&area=true)
 
 <!--
 **joaoplombardi/joaoplombardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
